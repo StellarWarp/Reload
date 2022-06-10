@@ -391,19 +391,19 @@ void sheetWin_control(
 		&& pos.Y >= sheetwin->area.Top && pos.Y <= sheetwin->area.Bottom)
 	{
 		//窗体滚动
-		//if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0x00800000)
+		//if (scoll_up(&input))
 		//{
 		//	sheetWin_scroll(-1, sheetwin);
 		//}
-		//if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0xff800000)
+		//if (scoll_down(&input))
 		//{
 		//	sheetWin_scroll(1, sheetwin);
 		//}
-		if (scoll_up(input))
+		if (scoll_up(&input))
 		{
 			sheetWin_scroll(-1, sheetwin);
 		}
-		if (scoll_down(input))
+		if (scoll_down(&input))
 		{
 			sheetWin_scroll(1, sheetwin);
 		}

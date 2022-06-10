@@ -82,20 +82,21 @@ void UI_off()
 	CloseHandle(handle_in);
 }
 
-char scoll_up(INPUT_RECORD input)
+#define SCOLL_TRIGER (0x0000ffff + 8)
+char scoll_up(INPUT_RECORD* input)
 {
-	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0x00800000
-		|| input.Event.KeyEvent.wVirtualKeyCode == VK_UP)
+	if (input->Event.MouseEvent.dwEventFlags == MOUSE_WHEELED 
+		&& (int)(input->Event.MouseEvent.dwButtonState) > SCOLL_TRIGER)
 	{
 		return 1;
 	}
 	return 0;
 }
 
-char scoll_down(INPUT_RECORD input)
+char scoll_down(INPUT_RECORD* input)
 {
-	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0xff800000
-		|| input.Event.KeyEvent.wVirtualKeyCode == VK_DOWN)
+	if (input->Event.MouseEvent.dwEventFlags == MOUSE_WHEELED 
+		&& (int)(input->Event.MouseEvent.dwButtonState) < -SCOLL_TRIGER)
 	{
 		return  1;
 	}

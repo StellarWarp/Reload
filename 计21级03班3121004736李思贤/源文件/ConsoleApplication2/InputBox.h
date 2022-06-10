@@ -73,12 +73,12 @@ void inBox_control(
 	int event = 0;
 	COORD pos = input.Event.MouseEvent.dwMousePosition;
 	//后退
-	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0x00800000)
+	if (scoll_up(&input))
 	{
 		event = -1;
 	}
 	//前进
-	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0xff800000)
+	if (scoll_down(&input))
 	{
 		event = 1;
 	}
