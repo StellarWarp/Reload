@@ -51,7 +51,7 @@ char getche_Console()
 	if (input.EventType == KEY_EVENT && input.Event.KeyEvent.bKeyDown)
 	{
 		char c = input.Event.KeyEvent.uChar.AsciiChar;
-		if(c != '\n') putchar(c);
+		if (c != '\n') putchar(c);
 		if (c == '\b')
 		{
 			putchar(' ');
@@ -80,6 +80,26 @@ void UI_off()
 {
 	CloseHandle(handle_out);
 	CloseHandle(handle_in);
+}
+
+char scoll_up(INPUT_RECORD input)
+{
+	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0x00800000
+		|| input.Event.KeyEvent.wVirtualKeyCode == VK_UP)
+	{
+		return 1;
+	}
+	return 0;
+}
+
+char scoll_down(INPUT_RECORD input)
+{
+	if (input.Event.MouseEvent.dwEventFlags == MOUSE_WHEELED && input.Event.MouseEvent.dwButtonState == 0xff800000
+		|| input.Event.KeyEvent.wVirtualKeyCode == VK_DOWN)
+	{
+		return  1;
+	}
+	return 0;
 }
 
 void ClearScreen()

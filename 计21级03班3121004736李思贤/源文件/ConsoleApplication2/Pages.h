@@ -105,7 +105,7 @@ void RecordPage(
 		GetConsoleScreenBufferInfo(handle_out, &csbi);
 		gotoxy(0, 0);  //设置鼠标位置  
 		DisplayMousePosition(pos);      //显示鼠标位置  
-		if (mouserec.EventType == MOUSE_EVENT)    //如果当前为鼠标事件  
+		if (mouserec.EventType & (MOUSE_EVENT | KEY_EVENT))    //如果当前为鼠标事件  
 		{
 			if (mode == 0)
 				sheetWin_control(mouserec, sheetwin, msgwin, member);

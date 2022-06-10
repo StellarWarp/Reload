@@ -32,6 +32,10 @@ char getche_Console();
 void InitializeUI();
 void UI_off();
 
+char scoll_up(INPUT_RECORD input);
+
+char scoll_down(INPUT_RECORD input);
+
 
 
 

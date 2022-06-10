@@ -1,1 +1,121 @@
-﻿  ConsoleApplication2.vcxproj -> C:\Users\Estelle\Desktop\计21级03班3121004736李思贤\源文件\x64\Debug\User.exe
+﻿  UserInterface.c
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(17,18): warning C4047: “=”:“WORD”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(18,22): warning C4047: “=”:“WORD”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(19,22): warning C4047: “=”:“WORD”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(41,52): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(151,56): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(174,53): warning C4267: “=”: 从“size_t”转换到“SHORT”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(175,55): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(186,53): warning C4267: “=”: 从“size_t”转换到“SHORT”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(187,55): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\2-UI.h(42,23): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\2-UI.h(49,41): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\2-UI.h(49,23): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\2-UI.h(50,35): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\2-UI.h(50,17): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\sheetWin.h(338,26): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\sheetWin.h(340,21): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\sheetWin.h(256,1): warning C4047: “初始化”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\GraphWin.h(235,5): warning C4013: “getstr_Amount_”未定义；假设外部返回 int
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(5,37): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(5,14): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(6,41): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(6,16): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(97,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(99,40): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(99,17): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(107,39): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(107,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(114,39): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(114,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(124,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(126,44): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(126,19): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(133,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(133,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(139,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(139,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(148,33): warning C4133: “函数”: 从“int *”到“ConsumeType *”的类型不兼容
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(149,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(175,37): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(175,16): warning C4024: “inputMethod”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(176,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(188,33): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(188,14): warning C4024: “inputSite”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(189,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(201,35): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(201,14): warning C4024: “inputSite”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(202,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(212,22): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(221,55): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\InputBox.h(90,1): warning C4047: “初始化”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(62,41): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(62,14): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(63,45): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(63,16): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(64,41): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(64,14): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(65,45): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(65,16): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(211,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(213,44): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(213,17): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(230,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(230,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(244,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(244,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(254,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(256,44): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(256,17): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(273,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(273,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(287,43): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(287,16): warning C4024: “getstr_Date”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(297,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(299,48): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(299,19): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(308,47): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(308,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(314,47): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(314,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(324,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(326,48): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(326,19): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(336,47): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(336,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(342,47): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(342,18): warning C4024: “getstr_Amount”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(351,33): warning C4133: “函数”: 从“int *”到“char *”的类型不兼容
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(352,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(402,33): warning C4133: “函数”: 从“int *”到“ConsumeType *”的类型不兼容
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(403,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(433,37): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(433,16): warning C4024: “inputMethod”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(434,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(448,33): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(448,14): warning C4024: “inputSite”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(449,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(463,35): warning C4047: “函数”:“char *”与“char (*)[101]”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(463,14): warning C4024: “inputSite”: 形参和实参 1 的类型不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(464,23): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(495,27): warning C4047: “==”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConditionBox.h(112,1): warning C4047: “初始化”:“Msg”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(110,27): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(123,22): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(22,9): warning C4101: “windowsize”: 未引用的局部变量
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(71,10): warning C4101: “in”: 未引用的局部变量
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(91,11): warning C4101: “windowsize”: 未引用的局部变量
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(256,22): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(280,27): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(310,35): warning C4244: “=”: 从“__int64”转换到“systemID”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(242,11): warning C4101: “windowsize”: 未引用的局部变量
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(423,25): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(447,25): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(469,25): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(490,45): warning C4244: “=”: 从“__int64”转换到“systemID”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(524,36): warning C4244: “=”: 从“__int64”转换到“systemID”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\FunctionPage.h(406,9): warning C4101: “windowsize”: 未引用的局部变量
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Pages.h(35,4): warning C4013: “ClearScreen”未定义；假设外部返回 int
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\UserInterface.c(90,63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\UserInterface.c(166,24): warning C4101: “AccLayout”: 未引用的局部变量
+  ConsoleApplication2.vcxproj -> C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\x64\Debug\User.exe
