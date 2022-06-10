@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{89974672-8111-4567-8c86-0c6dd097b56d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Page">
+      <UniqueIdentifier>{c1e7b226-35b5-4ce2-83e3-f1293f913e1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\控件">
+      <UniqueIdentifier>{72dd342a-7ab1-40ad-9fa5-6d3a8d9110de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\main">
+      <UniqueIdentifier>{025c101b-8f38-4a91-8a8e-13423aecc591}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConsoleControl.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strnormalize.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Search.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.c">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.c">
+      <Filter>源文件\main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleControl.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayArray.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Search.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="strnormalize.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Transcode.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MODE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportForUI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI-CodeCollections.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Pages.h">
+      <Filter>UI\Page</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionPage.h">
+      <Filter>UI\Page</Filter>
+    </ClInclude>
+    <ClInclude Include="1-UI.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="2-UI.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="ConditionBox.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphWin.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="InputBox.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="sheetWin.h">
+      <Filter>UI\控件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataImportor.h">
+      <Filter>源文件\main</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
