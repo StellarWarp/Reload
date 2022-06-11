@@ -1,24 +1,9 @@
-﻿  Cloud.c
-  ConsoleControl.c
+﻿  ConsoleControl.c
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(17,47): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(24,1): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(35,8): warning C4101: “pos”: 未引用的局部变量
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(49,8): warning C4101: “pos”: 未引用的局部变量
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(69,1): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
-  Date.c
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Date.c(73,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Date.c(78,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Date.c(83,23): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Date.c(110,54): warning C4028: 形参 2 与声明不同
-  DisplayArray.c
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(155,27): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,int)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(160,16): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,char *)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(165,26): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,int)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(170,24): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,int)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(175,16): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,char *)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(180,16): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,char *)”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\DisplayArray.c(185,16): warning C4047: “=”:“char *(__cdecl *)()”与“void (__cdecl *)(char *,char *)”的间接级别不同
-  Main.c
   Input.c
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Input.c(14,17): warning C4047: “=”:“unsigned int”与“void *”的间接级别不同
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Input.c(47,17): warning C4047: “=”:“unsigned int”与“void *”的间接级别不同
@@ -31,19 +16,10 @@ C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Input.c(209,17): warning C4047: “=”:“unsigned int”与“void *”的间接级别不同
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Input.c(214,12): warning C4013: “getch_Console”未定义；假设外部返回 int
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Input.c(239,10): warning C4305: “=”: 从“int”到“char”截断
-  LinkedList.c
+  Main.c
   Printer.c
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Printer.c(63,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-  QuickSort.c
   Search.c
-  strnormalize.c
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\strnormalize.c(16424,17): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\strnormalize.c(16436,17): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\strnormalize.c(16447,14): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\strnormalize.c(16519,20): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\strnormalize.c(16630,22): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
-  Struct.c
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\Struct.c(12,2): warning C4013: “strcpy_s”未定义；假设外部返回 int
   UserInterface.c
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(17,18): warning C4047: “=”:“WORD”与“void *”的间接级别不同
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\1-UI.h(18,22): warning C4047: “=”:“WORD”与“void *”的间接级别不同
@@ -165,8 +141,8 @@ C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\UserInterface.c(90,63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
 C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\UserInterface.c(166,24): warning C4101: “AccLayout”: 未引用的局部变量
   正在生成代码
-  158 of 160 functions (98.8%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  10 of 160 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   ConsoleApplication2.vcxproj -> C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\x64\Release\User.exe

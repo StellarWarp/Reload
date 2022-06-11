@@ -1,8 +1,2 @@
-﻿  ConsoleControl.c
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(17,47): warning C4267: “函数”: 从“size_t”转换到“DWORD”，可能丢失数据
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(24,1): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(35,8): warning C4101: “pos”: 未引用的局部变量
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(49,8): warning C4101: “pos”: 未引用的局部变量
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(69,1): warning C4047: “初始化”:“DWORD”与“void *”的间接级别不同
-C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\ConsoleApplication2\ConsoleControl.c(62): warning C4715: “getche_Console”: 不是所有的控件路径都返回值
+﻿  Search.c
   ConsoleApplication2.vcxproj -> C:\Users\Estelle\Documents\GitHub\Reload\计21级03班3121004736李思贤\源文件\x64\Debug\User.exe

@@ -100,6 +100,15 @@ void __search_Record__(struct Sheet* result, struct RecordList* record, struct S
 				continue;
 			}
 		}
+		//detail search
+		if (info.searchmode & mode_detail)
+		{
+			if (strcmp(info.detail, pos->detail) != 0)
+			{
+				pos = pos->next;
+				continue;
+			}
+		}
 		add_Sheet(result, record, pos);
 		pos = pos->next;
 	}
